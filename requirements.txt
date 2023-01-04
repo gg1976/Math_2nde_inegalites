@@ -1,2 +1,2 @@
 matplotlib==3.4.2 
-voila==0.2.16
+voila
